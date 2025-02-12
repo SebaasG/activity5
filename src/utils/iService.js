@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:4000";
+const BASE_URL = "http://localhost:3000";
 
 export async function makeApiRequest({
     endPoint,

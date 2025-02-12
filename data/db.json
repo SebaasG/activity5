@@ -1,1 +1,167 @@
-{}
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "documento": "123456789",
+      "prestamos": [
+        {
+          "id": 101,
+          "monto": 10000,
+          "tasaInteres": 5,
+          "plazoMeses": 12,
+          "tipoAmortizacion": "Francés",
+          "tablaAmortizacion": [
+            {
+              "cuota": 1,
+              "saldoInicial": 10000,
+              "cuotaMensual": 900,
+              "intereses": 50,
+              "amortizacionCapital": 850,
+              "saldoRestante": 9150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "0": {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "documento": "123456789",
+        "prestamos": [
+          {
+            "id": 101,
+            "monto": 10000,
+            "tasaInteres": 5,
+            "plazoMeses": 12,
+            "tipoAmortizacion": "Francés",
+            "tablaAmortizacion": [
+              {
+                "cuota": 1,
+                "saldoInicial": 10000,
+                "cuotaMensual": 900,
+                "intereses": 50,
+                "amortizacionCapital": 850,
+                "saldoRestante": 9150
+              }
+            ]
+          }
+        ]
+      },
+      "1": {
+        "id": 1739366218523,
+        "nombre": "Sebastian",
+        "documento": "1002460884",
+        "prestamos": [
+          {
+            "id": 1739366218514,
+            "monto": 10000,
+            "tasaInteres": 5,
+            "plazoMeses": 12,
+            "tipoAmortizacion": "Francés",
+            "tablaAmortizacion": [
+              {
+                "cuota": 1,
+                "saldoInicial": "10000.00",
+                "cuotaMensual": "856.07",
+                "intereses": "41.67",
+                "amortizacionCapital": "814.41",
+                "saldoRestante": "9185.59"
+              },
+              {
+                "cuota": 2,
+                "saldoInicial": "9185.59",
+                "cuotaMensual": "856.07",
+                "intereses": "38.27",
+                "amortizacionCapital": "817.80",
+                "saldoRestante": "8367.79"
+              },
+              {
+                "cuota": 3,
+                "saldoInicial": "8367.79",
+                "cuotaMensual": "856.07",
+                "intereses": "34.87",
+                "amortizacionCapital": "821.21",
+                "saldoRestante": "7546.58"
+              },
+              {
+                "cuota": 4,
+                "saldoInicial": "7546.58",
+                "cuotaMensual": "856.07",
+                "intereses": "31.44",
+                "amortizacionCapital": "824.63",
+                "saldoRestante": "6721.95"
+              },
+              {
+                "cuota": 5,
+                "saldoInicial": "6721.95",
+                "cuotaMensual": "856.07",
+                "intereses": "28.01",
+                "amortizacionCapital": "828.07",
+                "saldoRestante": "5893.88"
+              },
+              {
+                "cuota": 6,
+                "saldoInicial": "5893.88",
+                "cuotaMensual": "856.07",
+                "intereses": "24.56",
+                "amortizacionCapital": "831.52",
+                "saldoRestante": "5062.37"
+              },
+              {
+                "cuota": 7,
+                "saldoInicial": "5062.37",
+                "cuotaMensual": "856.07",
+                "intereses": "21.09",
+                "amortizacionCapital": "834.98",
+                "saldoRestante": "4227.39"
+              },
+              {
+                "cuota": 8,
+                "saldoInicial": "4227.39",
+                "cuotaMensual": "856.07",
+                "intereses": "17.61",
+                "amortizacionCapital": "838.46",
+                "saldoRestante": "3388.92"
+              },
+              {
+                "cuota": 9,
+                "saldoInicial": "3388.92",
+                "cuotaMensual": "856.07",
+                "intereses": "14.12",
+                "amortizacionCapital": "841.95",
+                "saldoRestante": "2546.97"
+              },
+              {
+                "cuota": 10,
+                "saldoInicial": "2546.97",
+                "cuotaMensual": "856.07",
+                "intereses": "10.61",
+                "amortizacionCapital": "845.46",
+                "saldoRestante": "1701.51"
+              },
+              {
+                "cuota": 11,
+                "saldoInicial": "1701.51",
+                "cuotaMensual": "856.07",
+                "intereses": "7.09",
+                "amortizacionCapital": "848.99",
+                "saldoRestante": "852.52"
+              },
+              {
+                "cuota": 12,
+                "saldoInicial": "852.52",
+                "cuotaMensual": "856.07",
+                "intereses": "3.55",
+                "amortizacionCapital": "852.52",
+                "saldoRestante": "-0.00"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "efb3"
+    }
+  ]
+}
